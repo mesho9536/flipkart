@@ -1,6 +1,4 @@
-this is database file
+hello we are working in master
+this is for database
 
-
-i am learning git
-
-ne line add
+hello i m learning git
